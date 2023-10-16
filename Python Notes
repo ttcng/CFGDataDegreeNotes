@@ -3,3 +3,50 @@
 
 
 kwaargs vs aargs
+
+#Testing
+Functional testing: 
+MVP: minimum viable product
+
+
+#Lesson 10 - Development Lifecycle & Agile Techniques
+# SDLC: Software Development Lifecycle
+1: Plan
+2: Requirements
+3: Design
+4: Implement
+5: Test & Integrate
+6: Deploy
+7: Maintain
+
+Testing: different for environments
+Code quality testing
+Unit testing: test particular lines of code
+Security testing
+User testing: production environment (customers visit website)
+
+Testing: regular: automate
+Output of testing phase can be functional software
+Make sure it's ready for deployment to production environment
+
+Development environment: available to developers
+Production
+
+Development: don't make accidental changes, so that you can test things without user seeing
+Work safely without users viewing work in progress
+
+Methodologies:
+Agile, Lean, Waterfall, Iterative, Spiral, DevOps
+
+Waterfall:
+Predefined requirements, unlikely to change
+No ambiguous requirements
+Project is short, move through phases quickly
+
+Agile:
+Same phases, but go back and forth in cycles
+Complete one cycle, runs through
+Get customer feedback much faster
+Withouth knowing requirements, can't predict resources and time necessary
+good for changing require,emts
+lower costs - can change at each cycle
