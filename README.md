@@ -62,4 +62,12 @@ Design pattersn are typical solutions to common prbolems in software design - bl
 - Structural: assembling classes into larger structures, keeping them effecient
 - Behavioural: algorithms and assignment of responsibiliites between objects
 
+  ## Approach
+  1. Clarify requirements using design questions
+  2. High level design (diagram)
+ 
+### Requirements
+### Design questions
+- 
+
   
