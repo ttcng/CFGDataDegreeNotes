@@ -53,3 +53,13 @@ li.textContent = items[i];
 
 
 ![image](https://github.com/ttcng/CFGDataDegreeNotes/assets/68971902/59c96807-521e-490e-8532-938fe9ea3322)
+
+# Design Flow and Design Patterns
+
+Design pattersn are typical solutions to common prbolems in software design - blueprints that can customize to solve particular design problems in code.
+
+- Creation: patterns to create objects and design ways of creating objects simply
+- Structural: assembling classes into larger structures, keeping them effecient
+- Behavioural: algorithms and assignment of responsibiliites between objects
+
+  
